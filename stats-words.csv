@@ -1,0 +1,408 @@
+Acceptance Boundary 	Hyväksymisraja
+Accuracy 	Tarkkuus
+Alternative Hypothesis 	Vaihtoehtoinen hypoteesi, Vastahypoteesi
+Analysis of Covariance 	Kovarianssianalyysi
+Arithmetic Mean 	Aritmeettinen keskiarvo
+Asymptotic 	Asymptoottinen
+Attribute 	Ominaisuus
+Autocorrelation 	Autokorrelaatio
+Autoregressive 	Autoregressiivinen
+Average 	Keskiluku, Keskiarvo
+Balanced 	Tasapainotettu
+Bar Chart 	Pylväsdiagrammi
+Bernoulli Trial 	Bernoulli-koe
+Between-groups Variance 	Ryhmien välinen varianssi
+Bias 	Harha
+Bimodal Distribution 	Kaksihuippuinen jakauma
+Bivariate 	Kahden muuttujan
+Bivariate Distribution 	Kaksiulotteinen jakauma
+Branching Process 	Haarautumisprosessi
+Central Limit Theorem 	Keskeinen raja-arvolause
+Characteristic Function 	Karakteristinen funktio
+Chi-squared 	Khin neliö
+Class 	Luokka
+Classification Statistic 	Erottelufunktio
+Cluster Analysis 	Ryhmittelyanalyysi
+Cluster Sampling 	Ryväsotanta
+Coeffecient of Concordance 	Järjestyksen yhtäpitävyyskerroin
+Coeffecient of Correlation 	Korrelaatiokerroin
+Coefficient of Determination 	Selitysaste
+Coefficient of Multiple Correlation 	Yhteiskorrelaatiokerroin
+Column Effect 	Sarakevaikutus
+Combinatorial 	Kombinatorinen
+Common Factor 	Yhteisfaktori
+Communality 	Kommunaliteetti
+Compile Statistics on / about sth. 	Tilastoida jtk., Tilastoida jtk.
+Composite Hypothesis 	Osittain määrätty hypoteesi
+Conditional 	Ehdollinen
+Confidence 	Luottamus
+Confidence Coefficient 	Luottamuskerroin
+Confidence Interval 	Luottamusväli
+Confidence Level 	Luottamustaso
+Confounding 	Sulautus
+Consistent 	Tarkentuva, Yhteensopiva
+Constant 	Vakio
+Constraint 	Rajoitus
+Contingency Table 	Kontingenssitaulu
+Continuous 	Jatkuva
+Contrast 	Kontrasti
+Control 	Valvonta, Ohjaus
+Control Set 	Vertailuryhmä
+Convergence in Distribution 	Jakaumakonvergenssi
+Convergence in Probability 	Stokastinen konvergenssi
+Convolution 	Konvoluutio
+Correction for Continuity 	Jatkuvuuskorjaus
+Correlation 	Korrelaatio
+Correlogram 	Korrelaatiodiagrammi, Pistediagrammi
+Covariance 	Kovarianssi
+Critical Region 	Kriittinen alue, Hylkäämisalue
+Critical Value 	Kriittinen arvo, Kriittinen raja
+Cross-correlation 	Ristikorrelaatio
+Cumulative Distribution Function 	Kertymäfunktio
+Cumulative Frequency 	Kertymäfrekvenssi
+Curve Fitting 	Käyrän sovitus
+Curvilinear 	Käyräviivainen
+Cycle 	Jakso
+Cyclic Order 	Kiertävä järjestys
+Decile 	Desiili, Kymmenyspiste
+Decision 	Päätös
+Decomposition 	Hajoitus
+Degrees of Freedom 	Vapausasteet
+Density Function 	Tiheysfunktio
+Dependent Variable 	Selitettävä muuttuja
+Descriptive Statistic 	Kuvaileva tunnusluku
+Design 	Suunnitelma
+Deterministic 	Deterministinen
+Deviation 	Poikkeama
+Diffusion Process 	Diffuusioprosessi
+Discontinuous Variable 	Diskreetti muuttuja
+Discrete 	Diskreetti
+Discrete Variable 	Diskreetti muuttuja
+Discriminant 	Erottelu
+Discriminatory Analysis 	Erotteluanalyysi
+Disjoint 	Pistevieras
+Disjoint Events 	Toisensa poissulkevat tapahtumat
+Dispersion 	Hajonta
+Distribution 	Jakauma
+Distribution Free 	Jakaumasta riippumaton
+Distribution Function 	Kertymäfunktio
+Double-tailed Test 	Kaksisuuntainen testi
+Dummy Variable 	Tekomuuttuja
+Efficiency 	Tehokkuus
+Eigenvalue 	Ominaisarvo
+Elementary Event 	Alkeistapahtuma
+Embedded 	Upotettu
+Error 	Virhe
+Error Mean-Square 	Jäännösvarianssi
+Error of First Kind 	Ensimmäisen lajin virhe, Hylkäämisvirhe
+Error of Second Kind 	Hyväksymisvirhe, Toisen lajin virhe
+Error Sum of Squares 	Jäännösneliösumma
+Error Variance 	Jäännösvarianssi
+Estimate 	Estimaatti
+Estimator 	Estimaattori
+Event 	Tapahtuma
+Event Space 	Otosavaruus, Tapahtuma-avaruus
+Excess 	Huipukkuus
+Expectation 	Odotusarvo
+Experimental Design 	Koesuunnitelma
+Experimental Error 	Koevirhe
+Explanatory Variable 	Selittäjä
+Extreme Value 	Ääriarvo
+Factor 	Faktori, Tekijä
+Factor Analysis 	Faktorianalyysi
+Factor Loading 	Faktorilataus
+Factorial 	Kertoma, Yhdistely-
+Factorial Experiment 	Faktorikoe, Yhdistelykoe
+Filter 	Suodatin, Suodin
+Finite 	Äärellinen
+Fit 	Sovittaa, Yhteensopivuus
+Fixed Effect 	Kiinteä vaikutus
+Forecast 	Ennustaa, Ennuste
+Fractile 	Fraktiili
+Fractional Replication 	Osittainen toisto
+Frame 	Kehikko
+Frequency 	Frekvenssi, Taajuus
+Frequency Distribution 	Frekvenssijakauma
+Frequency Function 	Pistetodennäköisyysfunktio
+Fundamental Probability Set 	Alkeistapahtumien joukko
+Game Theory 	Peliteoria
+General Addition Rule 	Yleinen yhteenlaskusääntö
+General Multiplication Rule 	Yleinen tulosääntö
+Generating Function 	Emäfunktio, Generoiva funktio
+Geometric Mean 	Geometrinen keskiarvo
+Goodness of Fit 	Yhteensopivuuden aste
+Graph 	Kuvio, Verkko, Piirros
+Grid 	Ristikko
+Half-replicate Design 	Puolittainen toisto
+Harmonic Mean 	Harmoninen keskiarvo
+Heterocedastic 	Erivarianssinen, Heteroskedastinen
+Histogram 	Histogrammi
+Homoscedastic 	Homoskedastinen, Samavarianssinen
+Hypothesis 	Hypoteesi
+Hypothesis Testing 	Hypoteesin testaus, Tilastollinen testaus
+Incomplete 	Epätäydellinen
+Inconsistent 	Epäkonsistentti, Tarkentumaton, Yhteensopimaton
+Independence 	Riippumattomuus
+Independent Variable 	Selittäjä
+Indicator Function 	Osoitinfunktio
+Inference 	Inferenssi, Johtopäätös, Päättely, Päättely
+Infinite 	Ääretön
+Inspection Lot 	Tarkastettava erä
+Integrated Spectrum 	Spektrikertymäfunktio
+Intensity 	Intensiteetti
+Interaction 	Yhdysvaikutus
+Interblock 	Lohkojen välinen
+Interclass Variance 	Luokkien välinen varianssi
+Interquartile Range 	Kvartiiliväli
+Intersect 	Leikata (joukko-opissa)
+Intersection 	Leikkaus
+Interval Estimation 	Väliestimointi
+Intrablock 	Lohkonsisäinen
+Intraclass Variance 	Luokkiensisäinen varianssi
+Invariance 	Invarianssi
+Inverse 	Käänteis-
+Inversion 	Käänteismuunnos
+Joint Distribution 	Yhteisjakauma
+Kurtosis 	Huipukkuus
+Lag 	Viive
+Latent Root 	Ominaisarvo
+Latin Square 	Latinalainen neliö
+Lattice 	Hila
+Law of Large Numbers 	Suurten lukujen laki
+Least Squares Method 	Pienimmän neliösumman keino
+Level of Factor 	Tekijän taso
+Level of Significance 	Merkitsevyystaso
+Likelihood 	Uskottavuus
+Likelihood Ratio 	Uskottavuusosamäärä, Uskottavuusosamäärä
+Likelihood Ratio Test 	Osamäärätesti
+Linear 	Lineaarinen, Lineaarinen
+Linear Regression 	Lineaarinen regressio
+Loading 	Lataus
+Location 	Sijainti
+Logistic 	Logistinen
+Loss Function 	Tappiofunktio
+Lot 	Erä
+Lower Control Limit 	Alaraja (valvontakoneessa)
+Main Effect 	Omavaikutus, Päävaikutus
+Marginal 	Reuna-
+Markov Chain 	Markovin ketju
+Markov Process 	Markovin prosessi
+Martingale 	Martingaali
+Maximum 	Maksimi
+Maximum Likelihood Method 	Suurimman uskottavuuden menetelmä
+Mean 	Keskiarvo
+Mean Deviation 	Keskipoikkeama
+Mean Square 	Keskineliö
+Measure Theory 	Mittateoria
+Median 	Mediaani
+Minimum 	Minimi
+Minimum Variance 	Minimivarianssi
+Mode 	Moodi, Tyyppiarvo
+Model 	Malli
+Moment 	Momentti
+Moment Matrix 	Momenttimatriisi
+Most Efficient 	Tehokkain
+Most Powerful 	Voimakkain
+Moving Average 	Liukuva keskiarvo
+Multicollinearity 	Multikollineaarisuus
+Multiple Classification 	Moniulotteinen luokitus
+Multiple Regression 	Usean selittäjän regressio
+Multivariate Analysis 	Monimuuttuja-analyysi
+Multivariate Distribution 	Moniulotteinen jakauma
+Mutually Exclusive 	Pareittain toisensa poissulkeva
+Nested Design 	Hierarkkinen kaavio, Sisäkkäiskaavio
+Noise 	Kohina
+Non-Null Hypothesis 	Vaihtoehtoinen hypoteesi, Vastahypoteesi
+Nonlinear 	Ei-lineaarinen, Epälineaarinen
+Nonparametric 	Ei-parametrinen, Epäparametrinen
+Nonsense Correlation 	Näennäiskorrelaatio
+Nonsingular Distribution 	Epäsingulaarinen jakauma
+Normal Distribution 	Normaalijakauma
+Normal Equations 	Normaaliyhtälöt
+Null Hypothesis 	Nollahypoteesi
+Object 	Alkio
+Oblique Factor 	Vino faktori
+Observation 	Havainto
+Occur 	Tapahtua
+One Sided Test 	Yksisuuntainen testi
+One Way Classification 	Yksisuuntainen luokitus
+Optimum Allocation 	Optimaalinen allokointi, Paras kiintiöinti
+Order 	Järjestys
+Order Statistics 	Järjestystunnusluvut
+Outcome 	Tulos
+Outlier 	Ulkopuolinen havainto, Vieras havainto
+Paired Comparison 	Parivertailu
+Pairwise Disjoint 	Pareittain toisensa poissulkeva
+Parameter 	Parametri
+Partial 	Osittais-
+Partition 	Ositus
+Peak 	Huippu
+Percentile 	Prosenttipiste, Sadannespiste
+Period 	Jakso
+Perodogram 	Periodogrammi
+Phase 	Vaihe
+Pilot Survey 	Esitutkimus
+Plot 	Piirros, Palsta, Piirtää, Ruutu
+Point Estimation 	Piste-estimointi
+Pooling 	Yhdistäminen
+Population 	Perusjoukko, Populaatio
+Posterior Probability 	Posterioritodennäköisyys
+Power 	Voimakkuus
+Power Spectrum 	Spektritiheys
+Precision 	Tarkkuus
+Prediction 	Ennuste, Ennustaminen
+Predictor 	Ennustava muuttuja
+Primary Unit 	Perusyksikkö
+Principal Component Analysis 	Pääkomponenttianalyysi
+Principal Components 	Pääkomponentit
+Prior Distribution 	Priorijakauma
+Prior Probability 	Prioritodennäköisyys
+Probability 	Todennäköisyys
+Probability Density Function 	Tiheysfunktio
+Probability Distribution 	Todennäköisyysjakauma
+Probability Mass 	Todennäköisyysmassa
+Probability Ratio 	Todennäköisyysosamäärä
+Probability Sample 	Todennäköisyysotos
+Probability Sampling 	Todennäköisyysotanta
+Probability Space 	Todennäköisyyskenttä
+Producer's Risk 	Tuottajan riski
+Product Moment 	Tulomomentti
+Projection 	Projektio
+Proportional Sampling 	Suhteellinen otanta
+Quadrat 	Ristikko, , Kvadraatti, Neliö, Neljännes
+Quadratic Mean 	Neliökeskiarvo
+Qualitative 	Kvalitatiivinen
+Quality Control 	Laadunvalvonta
+Quantile 	Kvantiili
+Quantitative 	Kvantitatiivinen
+Quartile 	Kvartiili
+Quartile Deviation 	Kvartiilipoikkeama
+Questionnaire 	Kyselylomake
+Queue 	Jono
+Queueing Theory 	Jonoteoria
+Random 	Satunnainen, Satunnais-, Stokastinen
+Random Effect 	Satunnaisvaikutus
+Random Error 	Satunnaisvirhe
+Random Event 	Satunnaistapahtuma
+Random Order 	Satunnaisjärjestys
+Random Sample 	Satunnaisotos
+Random Sampling Number 	Satunnaisluku
+Random Selection 	Satunnaisvalinta
+Random Variable 	Satunnaismuuttuja
+Random Walk 	Satunnaiskulku
+Randomisation 	Satunnaistaminen
+Randomised Blocks 	Satunnaistetut lohkot
+Range 	Vaihteluväli
+Rank 	Järjestysluku, Rankiluku, Sijaluku
+Rank Correlation 	Järjestyskorrelaatio
+Rank Order Statistic 	Järjestystunnusluku, Sijatunnusluku
+Ratio Estimator 	Suhde-estimaattori
+Realisation 	Realisaatio
+Rectangular Distribution 	Tasajakauma
+Recurrence Time 	Paluuaika
+Recurrent 	Palautuva
+Recursive 	Rekursiivinen
+Reduction of Data 	Aineiston supistaminen
+Reference Set 	Vertailuryhmä, Alkeistapahtumien joukko
+Regressand 	Selitettävä muuttuja
+Regression 	Regressio
+Regressor 	Selittäjä
+Rejection 	Hylkääminen
+Rejection Region 	Hylkäämisalue
+Relativ Frequency 	Suhteellinen frekvenssi
+Relative Efficiency 	Suhteellinen tehokkuus
+Reliability 	Luotettavuus
+Renewal Theory 	Uusiutumisteoria
+Renewal Time 	Uusiutumisaika
+Repetition 	Toistaminen
+Replacement 	Takaisinpano
+Replication 	Toisto
+Representative Sample 	Edustava otos
+Reproducibility 	Toistettavuus
+Residual 	Jäännös, Residuaali
+Residual Sum of Squares 	Jäännösneliösumma
+Residual Variance 	Jäännösvarianssi, Residuaalivarianssi
+Response 	Vastaus, Vaste
+Restriction 	Rajoitus
+Risk 	Riski
+Row Effect 	Rivivaikutus
+Run 	Jakso
+Saddle Point 	Satulapiste
+Sample 	Näyte, Otos, Otos, Otos
+Sample Moment 	Otosmomentti
+Sample Point 	Tulosvaihtoehto
+Sample Space 	Otosavaruus
+Sampling 	Otanta, Poiminta
+Sampling Error 	Otantavirhe
+Sampling Unit 	Otantayksikkö
+Scatter Diagram 	Pistediagrammi, Hajontakuvio
+Schedule 	Lomake
+Score 	Pistemäärä
+Seasonal Variation 	Kausivaihtelu
+Sequential 	Peräkkäis-, Sekvenssi-
+Serial Correlation 	Autokorrelaatio
+Set 	Joukko
+Set Difference 	Erotus (joukko-opissa)
+Set Theory 	Joukko-oppi
+Sign Test 	Merkkitesti
+Significance Level 	Merkitsevyystaso
+Significant 	Merkitsevä
+Simple Hypothesis 	Täysin määrätty hypoteesi
+Simple Random Sampling 	Riippumaton satunnaisotanta, Yksinkertainen otanta, Yksinkertainen satunnaisotanta
+Simulation 	Simulointi
+Simultaneous Estimation 	Yhteisestimointi
+Single Sampling 	Kertaotanta
+Single Tail Test 	Yksisuuntainen testi
+Singular Distribution 	Singulaarinen jakauma
+Size 	Koko, Taso
+Skewness 	Vinous
+Smoothing 	Tasoitus
+Specific Factor 	Erityisfaktori
+Specific Variance 	Omavarianssi
+Spectral Density 	Spektritiheys
+Spectral Density Function 	Spektritiheysfunktio
+Spectral Distribution Function 	Spektrikertymäfunktio
+Spectrum 	Spektri
+Standard 	Standardi
+Standard Deviation 	Keskihajonta, Standardipoikkeama
+Standard Error 	Keskivirhe
+Standardised 	Standardoitu
+Stationary 	Stationaarinen
+Statistic 	Tunnusluku
+Statistical Decision Function 	Tilastollinen päätösfunktio
+Statistics 	Tilastot, Tilastotiede, Tilastotiedot
+Stepwise 	Askeltava
+Stochastic 	Satunnainen, Satunnais-, Stokastinen
+Stratification 	Ositus
+Stratified Sampling 	Ositettu otanta
+Stratum 	Osite
+Studentisation 	Student-muunnos
+Subpopulation 	Osajoukko
+Subset 	Osajoukko
+Sufficiency 	Tyhjentävyys
+Sufficient 	Tyhjentävä
+Sure Event 	Varma tapahtuma
+Survey 	Kyselytutkimus, Tutkimus
+Symmetrical Test 	Symmetrinen testi
+Systematic Error 	Systemaattinen virhe
+Systematic Sampling 	Systemaattinen otanta
+Tail 	Häntä
+Test Statistic 	Testimuuttuja, Testisuure
+Tied Ranks 	Jaetut sijaluvut
+Time Series 	Aikasarja
+Tolerance Limits 	Toleranssirajat
+Transient 	Hetkellinen, Transientti, Väistyvä
+Transition Probability 	Siirtymätodennäköisyys
+Treatment 	Käsittely
+Two Sided Test 	Kaksisuuntainen testi
+Two-Dimensional Distribution 	Kaksiulotteinen jakauma
+Two-Tailed Test 	Kaksisuuntainen testi
+Unbiased 	Harhaton
+Uncertainty 	Epävarmuus
+Uniform Distribution 	Tasajakauma
+Union 	Yhdiste
+Universal Set 	Otosavaruus
+Upper Control Limit 	Yläraja (valvontakoneessa)
+Variable 	Muuttuja
+Variance 	Varianssi
+Weighted 	Painotettu
